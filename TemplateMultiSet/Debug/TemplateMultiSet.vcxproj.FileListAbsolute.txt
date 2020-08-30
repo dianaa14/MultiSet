@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\TemplateMultiSet\Debug\TemplateMultiSet.exe
+C:\Users\User\source\repos\TemplateMultiSet\Debug\TemplateMultiSet.pdb
